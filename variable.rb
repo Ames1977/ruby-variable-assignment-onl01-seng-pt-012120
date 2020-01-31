@@ -1,2 +1,7 @@
- # Define a local variable called 'greeting',
- # give it the value of the string "Hello World"
+name ('greeting') = "Hello World "
+"Hello World"
+phrase = "Hello World"
+puts 'hello'
+puts "Hello"World" 
+
+greeting = ('Hello World')
